@@ -1,5 +1,5 @@
 # CMS blog
- Blog & Magazine Script
+ Blog & Magazine Script2b2f488a04a6b27232978332a795aaa221f3843f
 
 CMS blog is a multi-purpose blog-magazine script. It has clean, responsive and user-friendly design. You can manage your posts, custom pages, categories, user comments, advanced settings and contact messages with its powerful Admin panel. Also it has a useful ad management system. You can manage your ad spaces with this system. It is secure, SEO optimized, fast and easy to use.
 
